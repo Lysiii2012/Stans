@@ -403,6 +403,7 @@ h2{
 .rating_body::before{
     content:'★★★★★';
     display: block;
+    
 }
 .rating_items{
     position: absolute;
@@ -424,7 +425,6 @@ h2{
     visibility: hidden;
 }
 .simple_rating_label{
-    flex: 0 0 20%;
     height: 100%;
     cursor:pointer;
     color: silver;
