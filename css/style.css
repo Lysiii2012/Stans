@@ -394,7 +394,7 @@ h2{
 
 .rating_body{
     position: relative;
-    font-size: 40px;
+    font-size: 30px;
     display: inline-block;
 }
 .rating_value{
@@ -434,10 +434,11 @@ h2{
     content:'★';
     display: block;
     transition: color 0.3s ease 0s;
+    
 }
 .rating_item:checked, 
 .rating_item:checked ~ .rating_item{
-    color:yellow;
+    color:green;
 }
 .simple_rating_label:hover,
 .simple_rating_label:hover ~ .simple_rating_label,
