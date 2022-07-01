@@ -1,0 +1,94 @@
+.bg-fcb {
+    width: 20px; height: 20px;
+    background: url('css_sprites.png') -191px -10px;
+}
+
+x
+.bg-sms {
+    width: 20px; height: 16px;
+    background: url('css_sprites.png') -10px -174px;
+}
+
+x
+.bg-sk {
+    width: 20px; height: 20px;
+    background: url('css_sprites.png') -191px -50px;
+}
+
+x
+.bg-teleg {
+    width: 20px; height: 20px;
+    background: url('css_sprites.png') -191px -90px;
+}
+
+x
+.bg-phon {
+    width: 18px; height: 18px;
+    background: url('css_sprites.png') -191px -130px;
+}
+
+x
+.bg-maps {
+    width: 14px; height: 20px;
+    background: url('css_sprites.png') -231px -10px;
+}
+
+x
+.bg-git {
+    width: 40px; height: 39px;
+    background: url('css_sprites.png') -131px -10px;
+}
+
+x
+.bg-sky {
+    width: 40px; height: 40px;
+    background: url('css_sprites.png') -71px -10px;
+}
+
+x
+.bg-app {
+    width: 40px; height: 40px;
+    background: url('css_sprites.png') -10px -70px;
+}
+
+x
+.bg-lli {
+    width: 40px; height: 40px;
+    background: url('css_sprites.png') -70px -70px;
+}
+
+x
+.bg-facebook_24px_1 {
+    width: 41px; height: 40px;
+    background: url('css_sprites.png') -10px -10px;
+}
+
+x
+.bg-Star {
+    width: 24px; height: 22px;
+    background: url('css_sprites.png') -142px -130px;
+}
+
+x
+.bg-skype {
+    width: 24px; height: 24px;
+    background: url('css_sprites.png') -131px -69px;
+}
+
+x
+.bg-telegram {
+    width: 24px; height: 24px;
+    background: url('css_sprites.png') -10px -130px;
+}
+
+x
+.bg-in {
+    width: 24px; height: 24px;
+    background: url('css_sprites.png') -54px -130px;
+}
+
+x
+.bg-facebook {
+    width: 24px; height: 24px;
+    background: url('css_sprites.png') -98px -130px;
+}
